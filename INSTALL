@@ -1,0 +1,9 @@
+Building ShopCoin
+
+See doc/readme-qt.rst for instructions on building ShopCoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ShopCoin.
+
+See doc/build-*.txt for instructions on building ShopCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ShopCoin.
